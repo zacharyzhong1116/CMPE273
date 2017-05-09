@@ -1,7 +1,0 @@
-{
-    "httpMethod": "DELETE",
-    "body": {
-        "TableName": "menu",
-        "menu_id": "$input.params('menu-id')"
-    }
-}
