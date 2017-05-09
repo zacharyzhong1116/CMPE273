@@ -1,6 +1,0 @@
-{
-"httpMethod": "PUT",
-"Attribute":"order_id",
-"Value":"$input.params('order-id')",
-"body": $input.json('$.body')
-}
